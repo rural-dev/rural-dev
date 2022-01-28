@@ -1,5 +1,5 @@
 # Rural-Dev
-Hi there 👋, I'm Aziz — a Full Stack engineer & freelancer at [Upwork](https://www.upwork.com/freelancers/~018467d55c4bde0a45). Please kindly check my personal portofolios here [My Web](https://www.azizsaefulhidayat.com/). I’m currently working on **Django-React-ReactNative** project for my side project.
+Hi there 👋, I'm Aziz — a Full Stack engineer & freelancer at [Upwork](https://www.upwork.com/freelancers/~018467d55c4bde0a45). Please kindly check my personal portofolios here [My Web](https://azizsaefulhidayat.com/). I’m currently working on **Django-React-ReactNative** project for my side project.
 
 ## ⚡ Fun fact
 - I’m currently learning how to sleep eary.
